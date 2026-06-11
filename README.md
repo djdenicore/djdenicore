@@ -25,10 +25,7 @@
 
 ## Текущие проекты
 
-### Haapsaly Bassline
-
-Underground онлайн-радио и музыкальное сообщество.
-
+* Haapsaly Bassline - Underground онлайн-радио и музыкальное сообщество.
 * AzuraCast
 * Собственная инфраструктура
 * Remote DJ
